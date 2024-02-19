@@ -6,12 +6,12 @@
 - Link to the Issue:
 - Link to the resolving PR on 3rd party repo:
 
-# Contributor social handles (Github / Twitter / Telegram) 🎙️
+# Contributor social handles (GitHub / Twitter / Telegram) 🎙️
 1. Example Contributor
-   - Github: [scroll-tech](https://github.com/scroll-tech)
+   - GitHub: [scroll-tech](https://github.com/scroll-tech)
    - Twitter: [Scroll_ZKP](https://twitter.com/Scroll_ZKP)
 2. Example Anonymous Contributor
-   - Github: anon
+   - GitHub: anon
 
 # Contribution Description 📝
 _Describe your work in more details here_
